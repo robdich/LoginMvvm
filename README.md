@@ -5,5 +5,10 @@ Clean Architecture techniques like the Repository pattern, separation of concern
 
 <img src="https://github.com/robdich/LoginMvvm/blob/master/login_mvvm_screen_record.gif" />
 
+#### Credentials for Successful Login
+Username: JohnSmith\
+Password: abc123
+
+
 ### Note
 This project was made using XCode 14.2 and SDK 16 as the only device available can only run MacOS Monterey 12.7.6
